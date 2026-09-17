@@ -211,13 +211,4 @@ Through this experiment, I practiced:
 * Data visualization with Matplotlib
 * Interpreting categorical data
 
-## Course Requirement
-
-This project was completed as part of **ECE 2112 – Advanced Computer Programming and Algorithms, Experiment 4**.
-
----
-
-**Author:** Justin Ylerlee D. Oliver
-**Section:** 2ECE-B
-
-The README is ready to paste directly into your GitHub repository as **`README.md`**.
+YOU CAN VIEW THE FILE HERE OLIVER_PA4 (1).ipynb
